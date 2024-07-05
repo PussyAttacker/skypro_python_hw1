@@ -7,7 +7,7 @@ def print_0():
 def print_5():
     print("5", end="")
 
-def print_3():
+def number_3():
     print("3", end="")
 
 print_8()
@@ -17,7 +17,7 @@ print_0()
 print_5()
 print_5()
 print_5()
-print_3()
+number_3()
 print_5()
-print_3()
+number_3()
 print_5()
